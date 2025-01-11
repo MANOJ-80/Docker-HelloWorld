@@ -23,8 +23,8 @@ This project demonstrates a minimal Flask web application running inside a Docke
 Clone or download the source code to your local machine.
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/MANOJ-80/Docker-HelloWorld.git
+cd Docker-HelloWorld
 ```
 
 ---
